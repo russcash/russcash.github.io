@@ -23,7 +23,7 @@
       if (cachedTheme) {
         return cachedTheme;
       } else if (theme !== "dark" || theme !== "light") {
-        let preferDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        let preferDark = window.matchMedia("(prefers-color-scheme: light)").matches;
         return preferDark ? "dark" : "light";
       } else {
         return theme;

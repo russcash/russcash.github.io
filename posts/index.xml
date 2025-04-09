@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on RussCash.Dev</title>
+    <title>Posts on russcash.dev</title>
     <link>https://russcash.github.io/posts/</link>
-    <description>Recent content in Posts on RussCash.Dev</description>
+    <description>Recent content in Posts on russcash.dev</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 22:00:00 -0400</lastBuildDate>
     <atom:link href="https://russcash.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://russcash.github.io/posts/second-post/</link>
+      <pubDate>Tue, 08 Apr 2025 22:00:00 -0400</pubDate>
+      <guid>https://russcash.github.io/posts/second-post/</guid>
+      <description>&lt;p&gt;Welcome to my second post! I&amp;rsquo;m excited to share more insights and updates. Stay tuned for more content coming your way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://russcash.github.io/posts/first-post/</link>
+      <pubDate>Tue, 08 Apr 2025 21:51:44 -0400</pubDate>
+      <guid>https://russcash.github.io/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;what-is-azure-active-directory-aad&#34;&gt;What is Azure Active Directory (AAD)?&lt;/h2&gt;&#xA;&lt;p&gt;Azure Active Directory (AAD) is Microsoft&amp;rsquo;s cloud-based identity and access management service. It enables organizations to manage user authentication, control access to resources, and enhance security for apps and services.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Single Sign-On (SSO)&lt;/strong&gt;: Simplifies user access to multiple applications with a single login.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Conditional Access&lt;/strong&gt;: Provides advanced security controls based on user location, device, and behavior.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Multi-Factor Authentication (MFA)&lt;/strong&gt;: Strengthens authentication with additional verification layers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Identity Protection&lt;/strong&gt;: Detects and mitigates identity-related threats using machine learning.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Application Management&lt;/strong&gt;: Allows administrators to register, monitor, and manage apps securely.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;AAD is an essential service for organizations adopting Microsoft 365, Azure, or other cloud-based solutions, ensuring seamless identity and security management across platforms.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
